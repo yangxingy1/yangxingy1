@@ -18,11 +18,11 @@
 <div align="center">
 
 <a href="https://github.com/yangxingy1">
-  <img src="https://github-readme-stats-kk.vercel.app/api?username=yangxingy1&show_icons=true&hide_title=true&hide_border=true&theme=graywhite&bg_color=0,ea6161,ffc64d,ffc64d,52fa5a&text_color=000&icon_color=000&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-kk.vercel.app/api?username=yangxingy1&show_icons=true&hide_title=true&hide_border=true&theme=dark&count_private=true" height="160" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/yangxingy1">
-  <img src="https://streak-stats.demolab.com/?user=yangxingy1&theme=graywhite&hide_border=true&background=0,52fa5a,4dfcff,c64dff&stroke=000&ring=000&fire=000&currStreakNum=000&sideNums=000&currStreakLabel=000&sideLabels=000&dates=000" height="160" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=yangxingy1&theme=dark&hide_border=true" height="160" alt="GitHub Streak" />
 </a>
 
 </div>
