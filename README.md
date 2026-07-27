@@ -4,21 +4,19 @@
 
 </div>
 
-I am currently a student, passionate about systems programming, game development, high-performance computing, and computer vision. I enjoy building things from scratch and exploring how things work under the hood.
-
 ## Skill
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,cs,java,linux,cmake,opencv,fastapi,spring,git,vscode,visualstudio" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=cpp,py,cmake,cs,opencv" alt="Skills" />
 
 </div>
 
-- **C/C++**: my primary languages — implemented STL, lock-free memory pool, cache systems and game engines from scratch
+- **C++**: my primary language — implemented STL, lock-free memory pool, cache systems and game engines from scratch
 - **Python**: FastAPI web services, OpenCV computer vision, mathematical modeling
+- **CMake**: cross-platform build system for C/C++ projects
 - **C#**: employee training system development
-- **Java**: Spring Boot web applications
-- **Others**: Linux system programming, cmake build systems, Git version control
+- **OpenCV**: template matching, digit & letter recognition, vision competition
 
 ## Activity
 
