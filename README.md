@@ -12,11 +12,6 @@
 
 </div>
 
-- **C++**: my primary language — implemented STL, lock-free memory pool, cache systems and game engines from scratch
-- **Python**: FastAPI web services, OpenCV computer vision, mathematical modeling
-- **CMake**: cross-platform build system for C/C++ projects
-- **C#**: employee training system development
-- **OpenCV**: template matching, digit & letter recognition, vision competition
 
 ## Activity
 
